@@ -1,0 +1,7 @@
+a:link{color:#990000;}
+a:visited{color:#990000;}
+a:hover{color:#CC2900;}
+a:active{color:#990000;}
+body{font:bold 50px white;margin-left:50px;}
+ol>li{list-style-image:url('blackseparationcrystal.png');list-style-position:outside;}
+span>li{list-style-image:url('homewardspell.png');list-style-position:outside;}
